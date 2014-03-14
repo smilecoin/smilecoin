@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogecoin</source>
-        <translation>Dogecoin hakkında</translation>
+        <source>About smilecoin</source>
+        <translation>smilecoin hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin&lt;/b&gt; sürüm</translation>
+        <source>&lt;b&gt;smilecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;smilecoin&lt;/b&gt; sürüm</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -44,8 +44,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>2013-%1 The Dogecoin developers</source>
-        <translation>2013-%1 Dogecoin geliştiricileri</translation>
+        <source>2013-%1 The smilecoin developers</source>
+        <translation>2013-%1 smilecoin geliştiricileri</translation>
     </message>
 </context>
 <context>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dogecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Dogecoin adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
+        <source>These are your smilecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için smilecoin adresleridir. Kimin ödeme yaptığını izleyebilmek için her ödeme yollaması gereken kişiye değişik bir adres verebilirsiniz.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -92,8 +92,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogecoin address</source>
-        <translation>Bir Dogecoin adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
+        <source>Sign a message to prove you own a smilecoin address</source>
+        <translation>Bir smilecoin adresinin sizin olduğunu ispatlamak için mesaj imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dogecoin address</source>
-        <translation>Belirtilen Dogecoin adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
+        <source>Verify a message to ensure it was signed with a specified smilecoin address</source>
+        <translation>Belirtilen smilecoin adresi ile imzalandığını doğrulamak için bir mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -132,8 +132,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme yapmak için kullanacağınız Dogecoin adreslerinizdir. Dogecoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
+        <source>These are your smilecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme yapmak için kullanacağınız smilecoin adreslerinizdir. smilecoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR smileCOINS&lt;/b&gt;!</source>
         <translation>Uyarı: Eğer cüzdanınızı şifrelerseniz ve parolanızı kaybederseniz, &lt;b&gt;TÜM BİTCOİNLERİNİZİ KAYBEDERSİNİZ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -285,8 +285,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Şifreleme işlemini tamamlamak için Dogecoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Dogecoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
+        <source>smilecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your smilecoins from being stolen by malware infecting your computer.</source>
+        <translation>Şifreleme işlemini tamamlamak için smilecoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, smilecoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -384,8 +384,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogecoin</source>
-        <translation>Dogecoin hakkında bilgi göster</translation>
+        <source>Show information about smilecoin</source>
+        <translation>smilecoin hakkında bilgi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Bir Dogecoin adresine Dogecoin yolla</translation>
+        <source>Send coins to a smilecoin address</source>
+        <translation>Bir smilecoin adresine smilecoin yolla</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dogecoin</source>
-        <translation>Dogecoin seçeneklerinin yapılandırmasını değiştir</translation>
+        <source>Modify configuration options for smilecoin</source>
+        <translation>smilecoin seçeneklerinin yapılandırmasını değiştir</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -465,8 +465,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>smilecoin</source>
+        <translation>smilecoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -490,8 +490,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dogecoin</source>
-        <translation>Dogecoin &amp;Hakkında</translation>
+        <source>&amp;About smilecoin</source>
+        <translation>smilecoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -510,13 +510,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Dogecoin adresleri ile imzala</translation>
+        <source>Sign messages with your smilecoin addresses to prove you own them</source>
+        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için smilecoin adresleri ile imzala</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Belirtilen Dogecoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified smilecoin addresses</source>
+        <translation>Belirtilen smilecoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -546,13 +546,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin istemcisi</translation>
+        <source>smilecoin client</source>
+        <translation>smilecoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>Dogecoin şebekesine %n faal bağlantı</numerusform><numerusform>Dogecoin şebekesine %n faal bağlantı</numerusform></translation>
+        <source>%n active connection(s) to smilecoin network</source>
+        <translation><numerusform>smilecoin şebekesine %n faal bağlantı</numerusform><numerusform>smilecoin şebekesine %n faal bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -666,8 +666,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>URI okunamadı! Sebebi geçersiz bir Dogecoin adresi veya hatalı URI parametreleri olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid smilecoin address or malformed URI parameters.</source>
+        <translation>URI okunamadı! Sebebi geçersiz bir smilecoin adresi veya hatalı URI parametreleri olabilir.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -681,8 +681,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Ciddi bir hata oluştu. Dogecoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
+        <source>A fatal error occurred. smilecoin can no longer continue safely and will quit.</source>
+        <translation>Ciddi bir hata oluştu. smilecoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -747,8 +747,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Girilen &quot;%1&quot; adresi geçerli bir Dogecoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid smilecoin address.</source>
+        <translation>Girilen &quot;%1&quot; adresi geçerli bir smilecoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -766,8 +766,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dogecoin-Qt</source>
-        <translation>Dogecoin-Qt</translation>
+        <source>smilecoin-Qt</source>
+        <translation>smilecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -829,13 +829,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogecoin after logging in to the system.</source>
-        <translation>Sistemde oturum açıldığında Dogecoin&apos;i otomatik olarak başlat.</translation>
+        <source>Automatically start smilecoin after logging in to the system.</source>
+        <translation>Sistemde oturum açıldığında smilecoin&apos;i otomatik olarak başlat.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogecoin on system login</source>
-        <translation>Dogecoin&apos;i sistem oturumuyla &amp;başlat</translation>
+        <source>&amp;Start smilecoin on system login</source>
+        <translation>smilecoin&apos;i sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide Dogecoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the smilecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide smilecoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -864,8 +864,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Dogecoin şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
+        <source>Connect to the smilecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>smilecoin şebekesine SOCKS vekil sunucusu vasıtasıyla bağlan (mesela Tor ile bağlanıldığında).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -939,8 +939,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin.</source>
-        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Dogecoin tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting smilecoin.</source>
+        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar smilecoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -950,12 +950,12 @@ Adres: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Dogecoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>smilecoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Muamele listesinde Dogecoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
+        <source>Whether to show smilecoin addresses in the transaction list or not.</source>
+        <translation>Muamele listesinde smilecoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1006,8 +1006,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogecoin.</source>
-        <translation>Bu ayarlar Dogecoin tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>This setting will take effect after restarting smilecoin.</source>
+        <translation>Bu ayarlar smilecoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1025,7 +1025,7 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the smilecoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Görüntülenen veriler zaman aşımına uğramış olabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak şebeke ile eşleşir ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
@@ -1079,8 +1079,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Dogecoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start smilecoin: click-to-pay handler</source>
+        <translation>smilecoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
 </context>
 <context>
@@ -1229,8 +1229,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogecoin-Qt help message to get a list with possible Dogecoin command-line options.</source>
-        <translation>Mevcut Dogecoin komut satırı seçeneklerinin listesini içeren Dogecoin-Qt yardımını göster.</translation>
+        <source>Show the smilecoin-Qt help message to get a list with possible smilecoin command-line options.</source>
+        <translation>Mevcut smilecoin komut satırı seçeneklerinin listesini içeren smilecoin-Qt yardımını göster.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,13 +1249,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogecoin - Debug window</source>
-        <translation>Dogecoin - Hata ayıklama penceresi</translation>
+        <source>smilecoin - Debug window</source>
+        <translation>smilecoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Çekirdeği</translation>
+        <source>smilecoin Core</source>
+        <translation>smilecoin Çekirdeği</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Güncel veri klasöründen Dogecoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
+        <source>Open the smilecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Güncel veri klasöründen smilecoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1274,8 +1274,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Dogecoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the smilecoin RPC console.</source>
+        <translation>smilecoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1300,7 +1300,7 @@ Adres: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Dogecoin yolla</translation>
+        <translation>smilecoin yolla</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1329,8 +1329,8 @@ Adres: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 DOGE</source>
-        <translation>123.456 DOGE</translation>
+        <source>123.456 smile</source>
+        <translation>123.456 smile</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1458,8 +1458,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Dogecoin adresi giriniz (mesela DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a smilecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>smilecoin adresi giriniz (mesela DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1523,8 +1523,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Bu Dogecoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
+        <source>Sign the message to prove you own this smilecoin address</source>
+        <translation>Bu smilecoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1559,8 +1559,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Belirtilen Dogecoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified smilecoin address</source>
+        <translation>Belirtilen smilecoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Dogecoin adresi giriniz (mesela DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a smilecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>smilecoin adresi giriniz (mesela DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1585,8 +1585,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogecoin signature</source>
-        <translation>Dogecoin imzası gir</translation>
+        <source>Enter smilecoin signature</source>
+        <translation>smilecoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1659,8 +1659,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dogecoin developers</source>
-        <translation>Dogecoin geliştiricileri</translation>
+        <source>The smilecoin developers</source>
+        <translation>smilecoin geliştiricileri</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1794,7 +1794,7 @@ Adres: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 50 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan Dogecoin&apos;lerin harcanabilmelerinden önce 50 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan smilecoin&apos;lerin harcanabilmelerinden önce 50 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu &quot;kabul edilmedi&quot; olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2147,7 +2147,7 @@ Adres: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Dogecoin yolla</translation>
+        <translation>smilecoin yolla</translation>
     </message>
 </context>
 <context>
@@ -2197,8 +2197,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Dogecoin version</source>
-        <translation>Dogecoin sürümü</translation>
+        <source>smilecoin version</source>
+        <translation>smilecoin sürümü</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2207,8 +2207,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dogecoind</source>
-        <translation>-server ya da dogecoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or smilecoind</source>
+        <translation>-server ya da smilecoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2227,13 +2227,13 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Yapılandırma dosyası belirt (varsayılan: dogecoin.conf)</translation>
+        <source>Specify configuration file (default: smilecoin.conf)</source>
+        <translation>Yapılandırma dosyası belirt (varsayılan: smilecoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>Pid dosyası belirt (varsayılan: dogecoind.pid)</translation>
+        <source>Specify pid file (default: smilecoind.pid)</source>
+        <translation>Pid dosyası belirt (varsayılan: smilecoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2247,8 +2247,8 @@ Adres: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22556 or testnet: 44556)</source>
-        <translation>Bağlantılar için dinlenecek &lt;port&gt; (varsayılan: 22556 ya da testnet: 44556)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 29101 or testnet: 59101)</source>
+        <translation>Bağlantılar için dinlenecek &lt;port&gt; (varsayılan: 29101 ya da testnet: 59101)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2282,8 +2282,8 @@ Adres: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22555 or testnet: 44555)</source>
-        <translation>JSON-RPC bağlantılarını &lt;port&gt; üzerinde dinle (varsayılan: 22555 veya tesnet: 44555)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29100 or testnet: 59100)</source>
+        <translation>JSON-RPC bağlantılarını &lt;port&gt; üzerinde dinle (varsayılan: 29100 veya tesnet: 59100)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2310,24 +2310,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=smilecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;smilecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, şu yapılandırma dosyasında rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=dogecoinrpc
+rpcuser=smilecoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.
 Dosya mevcut değilse, sadece sahibi için okumayla sınırlı izin ile oluşturunuz.
 Sorunlar hakkında bildiri almak için alertnotify unsurunu ayarlamanız tavsiye edilir;
-mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+mesela: alertnotify=echo %%s | mail -s &quot;smilecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2342,8 +2342,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin is probably already running.</source>
-        <translation>%s veri dizininde kilit elde edilemedi. Dogecoin muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. smilecoin is probably already running.</source>
+        <translation>%s veri dizininde kilit elde edilemedi. smilecoin muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2373,7 +2373,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     <message>
         <location line="+6"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - dogecoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - smilecoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2387,8 +2387,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse Dogecoin gerektiği gibi çalışamaz.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong smilecoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse smilecoin gerektiği gibi çalışamaz.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2528,7 +2528,7 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation>Dogecoin oluştur (varsayılan: 0)</translation>
+        <translation>smilecoin oluştur (varsayılan: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2637,8 +2637,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dogecoin Wiki for SSL setup instructions)</source>
-        <translation> SSL seçenekleri: (SSL kurulum bilgisi için Dogecoin vikisine bakınız)</translation>
+        <source>SSL options: (see the smilecoin Wiki for SSL setup instructions)</source>
+        <translation> SSL seçenekleri: (SSL kurulum bilgisi için smilecoin vikisine bakınız)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2827,13 +2827,13 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir Dogecoin sürümüne ihtiyacı var</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of smilecoin</source>
+        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir smilecoin sürümüne ihtiyacı var</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için Dogecoin&apos;i yeniden başlatınız</translation>
+        <source>Wallet needed to be rewritten: restart smilecoin to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için smilecoin&apos;i yeniden başlatınız</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2892,8 +2892,8 @@ mesela: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dogecoin is probably already running.</source>
-        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Dogecoin muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. smilecoin is probably already running.</source>
+        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. smilecoin muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogecoin</source>
-        <translation>Over Dogecoin</translation>
+        <source>About smilecoin</source>
+        <translation>Over smilecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogecoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;smilecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;smilecoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -44,8 +44,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>2013-%1 The Dogecoin developers</source>
-        <translation>2013-%1 De Dogecoin-ontwikkelaars</translation>
+        <source>2013-%1 The smilecoin developers</source>
+        <translation>2013-%1 De smilecoin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -77,8 +77,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Dogecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw Dogecoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <source>These are your smilecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn uw smilecoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -92,8 +92,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Dogecoinadres bezit</translation>
+        <source>Sign a message to prove you own a smilecoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald smilecoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Dogecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Dogecoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify a message to ensure it was signed with a specified smilecoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde smilecoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -132,8 +132,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Dogecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw dogecoins verzendt.</translation>
+        <source>These are your smilecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw smilecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw smilecoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -258,8 +258,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW DOGECOINS VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR smileCOINS&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW smileCOINS VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -285,8 +285,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Dogecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw dogecoins stelen.</translation>
+        <source>smilecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your smilecoins from being stolen by malware infecting your computer.</source>
+        <translation>smilecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw smilecoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -384,8 +384,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogecoin</source>
-        <translation>Laat informatie zien over Dogecoin</translation>
+        <source>Show information about smilecoin</source>
+        <translation>Laat informatie zien over smilecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -429,13 +429,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Verstuur munten naar een Dogecoinadres</translation>
+        <source>Send coins to a smilecoin address</source>
+        <translation>Verstuur munten naar een smilecoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Dogecoin</source>
-        <translation>Wijzig instellingen van Dogecoin</translation>
+        <source>Modify configuration options for smilecoin</source>
+        <translation>Wijzig instellingen van smilecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -465,8 +465,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>smilecoin</source>
+        <translation>smilecoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -490,8 +490,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Dogecoin</source>
-        <translation>&amp;Over Dogecoin</translation>
+        <source>&amp;About smilecoin</source>
+        <translation>&amp;Over smilecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -510,13 +510,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Dogecoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your smilecoin addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw smilecoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Dogecoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified smilecoin addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde smilecoinadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -546,13 +546,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Dogecoin client</source>
-        <translation>Dogecoin client</translation>
+        <source>smilecoin client</source>
+        <translation>smilecoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n actieve connectie naar Dogecoinnetwerk</numerusform><numerusform>%n actieve connecties naar Dogecoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to smilecoin network</source>
+        <translation><numerusform>%n actieve connectie naar smilecoinnetwerk</numerusform><numerusform>%n actieve connecties naar smilecoinnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -617,7 +617,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Dogecoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het smilecoinnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -666,8 +666,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Dogecoinadres of misvormde URI-parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid smilecoin address or malformed URI parameters.</source>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig smilecoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -681,8 +681,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Dogecoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Dogecoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. smilecoin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. smilecoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -747,8 +747,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogecoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Dogecoinadres</translation>
+        <source>The entered address &quot;%1&quot; is not a valid smilecoin address.</source>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig smilecoinadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -766,8 +766,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Dogecoin-Qt</source>
-        <translation>Dogecoin-Qt</translation>
+        <source>smilecoin-Qt</source>
+        <translation>smilecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -829,13 +829,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogecoin after logging in to the system.</source>
-        <translation>Start Dogecoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start smilecoin after logging in to the system.</source>
+        <translation>Start smilecoin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogecoin on system login</source>
-        <translation>Start &amp;Dogecoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start smilecoin on system login</source>
+        <translation>Start &amp;smilecoin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Dogecoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the smilecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de smilecoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -864,8 +864,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Dogecoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the smilecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het smilecoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -939,8 +939,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Dogecoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting smilecoin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat smilecoin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -954,8 +954,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogecoin addresses in the transaction list or not.</source>
-        <translation>Of Dogecoinadressen getoond worden in de transactielijst</translation>
+        <source>Whether to show smilecoin addresses in the transaction list or not.</source>
+        <translation>Of smilecoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1006,8 +1006,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogecoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Dogecoin.</translation>
+        <source>This setting will take effect after restarting smilecoin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van smilecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1025,8 +1025,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Dogecoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the smilecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het smilecoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1079,8 +1079,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Kan dogecoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start smilecoin: click-to-pay handler</source>
+        <translation>Kan smilecoin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1229,8 +1229,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogecoin-Qt help message to get a list with possible Dogecoin command-line options.</source>
-        <translation>Toon het DogecoinQt-hulpbericht voor een lijst met mogelijke Dogecoin commandoregel-opties.</translation>
+        <source>Show the smilecoin-Qt help message to get a list with possible smilecoin command-line options.</source>
+        <translation>Toon het smilecoinQt-hulpbericht voor een lijst met mogelijke smilecoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,13 +1249,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogecoin - Debug window</source>
-        <translation>Dogecoin-debugscherm</translation>
+        <source>smilecoin - Debug window</source>
+        <translation>smilecoin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Kern</translation>
+        <source>smilecoin Core</source>
+        <translation>smilecoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Dogecoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the smilecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het smilecoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1274,8 +1274,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Dogecoin RPC console.</source>
-        <translation>Welkom bij de Dogecoin RPC-console.</translation>
+        <source>Welcome to the smilecoin RPC console.</source>
+        <translation>Welkom bij de smilecoin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1329,8 +1329,8 @@ Adres: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 DOGE</source>
-        <translation>123.456 DOGE</translation>
+        <source>123.456 smile</source>
+        <translation>123.456 smile</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1458,8 +1458,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Vul een Dogecoinadres in (bijv. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a smilecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Vul een smilecoinadres in (bijv. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
 </context>
 <context>
@@ -1523,8 +1523,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Dogecoinadres bezit</translation>
+        <source>Sign the message to prove you own this smilecoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald smilecoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1559,8 +1559,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Dogecoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified smilecoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde smilecoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
-        <translation>Vul een Dogecoinadres in (bijv. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
+        <source>Enter a smilecoin address (e.g. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</source>
+        <translation>Vul een smilecoinadres in (bijv. DJ7zB7c5BsB9UJLy1rKQtY7c6CQfGiaRLM)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1585,8 +1585,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogecoin signature</source>
-        <translation>Voer Dogecoin-handtekening in</translation>
+        <source>Enter smilecoin signature</source>
+        <translation>Voer smilecoin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1659,8 +1659,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Dogecoin developers</source>
-        <translation>De Dogecoin-ontwikkelaars</translation>
+        <source>The smilecoin developers</source>
+        <translation>De smilecoin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Dogecoin version</source>
-        <translation>Dogecoinversie</translation>
+        <source>smilecoin version</source>
+        <translation>smilecoinversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2207,8 +2207,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or dogecoind</source>
-        <translation>Stuur commando naar -server of dogecoind</translation>
+        <source>Send command to -server or smilecoind</source>
+        <translation>Stuur commando naar -server of smilecoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2227,14 +2227,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: dogecoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: dogecoin.conf)
+        <source>Specify configuration file (default: smilecoin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: smilecoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: dogecoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: dogecoind.pid)
+        <source>Specify pid file (default: smilecoind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: smilecoind.pid)
 </translation>
     </message>
     <message>
@@ -2249,8 +2249,8 @@ Adres: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 22556 or testnet: 44556)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 22556 of testnet: 44556)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 29101 or testnet: 59101)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 29101 of testnet: 59101)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2284,8 +2284,8 @@ Adres: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 22555 or testnet: 44555)</source>
-        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 22555 of testnet: 44555)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 29100 or testnet: 59100)</source>
+        <translation>Wacht op JSON-RPC-connecties op poort &lt;port&gt; (standaard: 29100 of testnet: 59100)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2312,23 +2312,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=smilecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;smilecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=dogecoinrpc
+rpcuser=smilecoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;smilecoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2342,8 +2342,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Dogecoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. smilecoin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. smilecoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2387,8 +2387,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogecoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Dogecoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong smilecoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal smilecoin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2637,8 +2637,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Dogecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Dogecoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the smilecoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de smilecoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2827,13 +2827,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Dogecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of smilecoin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van smilecoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Dogecoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Dogecoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart smilecoin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart smilecoin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2892,8 +2892,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Dogecoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Dogecoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. smilecoin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. smilecoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>
